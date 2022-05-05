@@ -1,0 +1,7 @@
+nomecompleto = input('Digite seu nome completo e entre cada sobrenome aperte espaço uma vez')
+print('O nome completo é:  ', nomecompleto[:])
+print('A primeiro caractere do nome é ', nomecompleto[0])
+print('O último caracter é : ', nomecompleto[-1])
+print('Do primeiro ao terceiro caracter é: ',nomecompleto[0:3])
+print('O  quarto caractere do nome é ', nomecompleto[4])
+print('Os dois últimos caracteres são ', nomecompleto[-2:])
